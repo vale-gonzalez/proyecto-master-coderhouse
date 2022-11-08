@@ -96,7 +96,7 @@ footer h4{
     /*Animaciones de los botones del menu*/
 
     header nav ul li:hover{
-        background-color: #51B0DF;
+        background-color: #174358;
         font-weight: bold;
         transform: scale(0.9);
         box-shadow: 1px 1px 2px black;
